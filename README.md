@@ -1,7 +1,7 @@
 # Project Title
 Sortable Image Gallery
 ## Demo link:
-Access my site at [google.com]([https://google.com](https://ollyo-task-md-shaiful-ahasan.netlify.app/))
+Access my site at [ollyo-task-md-shaiful-ahasan.netlify.app](https://google.com](https://ollyo-task-md-shaiful-ahasan.netlify.app/))
 
 ## Table of Content:
 
@@ -9,39 +9,21 @@ Access my site at [google.com]([https://google.com](https://ollyo-task-md-shaifu
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Approach](#approach)
-- [Status](#status)
-- [Credits](#credits)
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+Sortable Image Gallery is an app that User Can See the Gallery Images and also They can sort the images with drag and drop feature. In the Sortable Image Gallery There is a feature that display images with one feature image larger than the others.
 
-## Screenshots
-
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
-I used `html`, `css`, ...
+I used `html`, `css`, `react`, ...
 
 ## Setup
 - download or clone the repository
 - run `npm install`
 - ...
 
-## Approach
-I adopted the `BEM` naming style for my css class names and ...
-
-## Status
-[name of project] is still in progress. `Version 2` will be out soon.
-
-## Credits
-List of contriubutors:
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
 
 ## License
 
-MIT license @ [author](author.com)
+MIT license @ [Md-Shaiful Ahasan](ehasanrobin.netlify.com)
