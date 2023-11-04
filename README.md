@@ -1,7 +1,7 @@
 # Project Title
 Sortable Image Gallery
 ## Demo link:
-Access my site at [ollyo-task-md-shaiful-ahasan.netlify.app]((https://ollyo-task-md-shaiful-ahasan.netlify.app/))
+Access my site at [ollyo-task-md-shaiful-ahasan.netlify.app](https://ollyo-task-md-shaiful-ahasan.netlify.app/)
 
 ## Table of Content:
 
